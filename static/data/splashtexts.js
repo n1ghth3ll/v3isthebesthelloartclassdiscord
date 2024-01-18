@@ -17,5 +17,6 @@ var splashtexts = [
     "perhaps",
     "you can play a whole 20 questions with this",
     "thats not true",
-    "hi mathias",
+    "Did you know cr0sh is a cool dev",
+    "SUPEREDUDEPA AMSUM COL GAMSS!!!!!!!!!!!!",
 ]
