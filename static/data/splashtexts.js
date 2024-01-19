@@ -19,4 +19,7 @@ var splashtexts = [
     "thats not true",
     "Did you know cr0sh is a cool dev",
     "SUPEREDUDEPA AMSUM COL GAMSS!!!!!!!!!!!!",
+    "EdPod.exe has crashed",
+    "jonah is the best",
+    "fuck life,fuck school",
 ]
